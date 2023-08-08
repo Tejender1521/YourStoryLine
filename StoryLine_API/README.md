@@ -1,4 +1,4 @@
-# NewsYog_Geocoding_API
+# StoryLine_Geocoding_API
 
 API is built in the Flask framework of Python.
 Database used is MongoDB.
