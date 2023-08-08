@@ -1,4 +1,4 @@
-# NewsYog_Client_API
+# StoryLine_Client_API
 
 API is built in the Flask framework of Python.
 Database used is MongoDB.
