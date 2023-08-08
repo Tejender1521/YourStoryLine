@@ -1,0 +1,15 @@
+Start Elasticsearch as a servie 
+
+Connect with proper credentials and port, host also line number 5
+
+Save data file in this folder and open it in data_feeder in line number 10
+
+write the total number of entries in for loop total value i.e. line number 12
+
+then indent using proper format
+
+create appropriate index and rename index name in line 19 and 29
+
+then run this file
+
+test.py file in order to verify whether database is loaded successfully or not 

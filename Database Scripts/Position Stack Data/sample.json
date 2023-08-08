@@ -1,0 +1,113 @@
+{
+    "Niwaru": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.71317,
+                    26.97323
+                ]
+            },
+            "properties": {
+                "type": "locality",
+                "name": "Niwaru",
+                "number": null,
+                "postal_code": null,
+                "street": null,
+                "confidence": 0.6,
+                "region": "Rajasthan",
+                "region_code": "RJ",
+                "county": "Jaipur",
+                "locality": "Niwaru",
+                "administrative_area": null,
+                "neighbourhood": null,
+                "country": "India",
+                "country_code": "IND",
+                "continent": "Asia",
+                "label": "Niwaru, RJ, India",
+                "map_url": "https://map.positionstack.com/export/embed.html?bbox=75.69317,26.95323,75.73317,26.99323&layer=mapnik&marker=26.97323,75.71317"
+            },
+            "bbox": [
+                75.69317,
+                26.95323,
+                75.73317,
+                26.99323
+            ]
+        }
+    ],
+    "Shitala Road": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.897661,
+                    26.647569
+                ]
+            },
+            "properties": {
+                "type": "venue",
+                "name": "Shitala Road",
+                "number": null,
+                "postal_code": null,
+                "street": null,
+                "confidence": 0.8,
+                "region": "Rajasthan",
+                "region_code": "RJ",
+                "county": "Jaipur",
+                "locality": null,
+                "administrative_area": null,
+                "neighbourhood": null,
+                "country": "India",
+                "country_code": "IND",
+                "continent": "Asia",
+                "label": "Shitala Road, RJ, India",
+                "map_url": "https://map.positionstack.com/export/embed.html?bbox=75.898161,26.648069,75.897161,26.647069&layer=mapnik&marker=26.647569,75.897661"
+            },
+            "bbox": [
+                75.898161,
+                26.648069,
+                75.897161,
+                26.647069
+            ]
+        }
+    ],
+    "Chokhi Dhani - Tonk Road": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.836112,
+                    26.767587
+                ]
+            },
+            "properties": {
+                "type": "venue",
+                "name": "Chokhi Dhani - Tonk Road",
+                "number": "12 Miles",
+                "postal_code": null,
+                "street": "Tonk Road",
+                "confidence": 0.8,
+                "region": "Rajasthan",
+                "region_code": "RJ",
+                "county": "Jaipur",
+                "locality": null,
+                "administrative_area": null,
+                "neighbourhood": null,
+                "country": "India",
+                "country_code": "IND",
+                "continent": "Asia",
+                "label": "Chokhi Dhani - Tonk Road, RJ, India",
+                "map_url": "https://map.positionstack.com/export/embed.html?bbox=75.836612,26.768087,75.835612,26.767087&layer=mapnik&marker=26.767587,75.836112"
+            },
+            "bbox": [
+                75.836612,
+                26.768087,
+                75.835612,
+                26.767087
+            ]
+        }
+    ]
+}

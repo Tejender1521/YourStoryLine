@@ -1,0 +1,1 @@
+* This api is based on custom logic with the help of spacy and elasticsearch database that is used as a service.

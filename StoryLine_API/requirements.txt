@@ -1,0 +1,6 @@
+Flask
+pymongo[srv]
+Flask-PyMongo
+bson
+flask_api
+jsonschema
